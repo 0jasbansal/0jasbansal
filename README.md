@@ -77,8 +77,4 @@ Multi-environment CI/CD pipeline with ArgoCD-driven GitOps rollouts, Terraform-p
 
 ## 📊 GitHub Stats:
 
-![Ojas's GitHub stats](https://github-readme-stats.vercel.app/api?username=0jasbansal&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0jasbansal&layout=compact&theme=dark)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0jasbansal&theme=dark)
