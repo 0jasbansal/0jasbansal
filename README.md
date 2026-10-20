@@ -1,6 +1,6 @@
 # 👋 About Me:
 
-Hi, I'm **Ojas Bansal** 👋
+Hi, I'm **Ojas Bansal** 
 
 **DevOps & Backend Developer | Cloud-Native Systems Enthusiast**
 B.Tech in Computer Science Engineering — Maharaja Agrasen Institute of Technology, Delhi (2023–2027)
